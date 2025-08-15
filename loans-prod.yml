@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Prashant Labs loans related prodction APIs "
+  message: "Welcome to Prashant Labs loans related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@prashantlabs.com"
