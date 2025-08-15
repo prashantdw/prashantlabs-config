@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Prashant Labs cards related prod APIs "
+  message: "Welcome to Prashant Labs cards related production APIs "
   contactDetails:
     name: "Prashant Dwivedi - Product Owner"
     email: "prashantdwivedi@prashantlabs.com"
