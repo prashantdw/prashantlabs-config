@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Prashant Labs accounts related prod APIs "
   contactDetails:
     name: "Prashant Dwivedi - Product Owner"
-    email: "prashantdwivedi@prashantlabs.com"
+    email: "{cipher}3eb6b5c0ea1116cc7863671fbeee6284be6c854e5340a77d7efad9f28b9ab474b2a04ce7d7c20ab17e734cf136dc420f2a563455ba753e4c46fab464d30859ae"
   onCallSupport:
     - 9999351616
     - 9999161635
